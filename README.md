@@ -5,12 +5,15 @@ A theme somewhat inspired by the ✦[Marathon game](https://www.marathonthegame.
 ## Screenshots
 
 ### HTML
+
 ![html code preview](html.png)
 
 ### CSS
+
 ![css code preview](css.png)
 
 ### JS
+
 ![javascript code preview](js.png)
 
 **Enjoy!**
