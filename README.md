@@ -6,14 +6,14 @@ A theme somewhat inspired by the ✦[Marathon game](https://www.marathonthegame.
 
 ### HTML
 
-![html code preview](html.png)
+![html code preview](https://raw.githubusercontent.com/King-Kyle/marathon-dark/main/html.png?token=GHSAT0AAAAAACMZ2LWZHW4IPRF5RWTFV732ZNFMOCA)
 
 ### CSS
 
-![css code preview](css.png)
+![css code preview](https://raw.githubusercontent.com/King-Kyle/marathon-dark/main/css.png?token=GHSAT0AAAAAACMZ2LWZAGMHX7XLPLNWV4JYZNFMPZQ)
 
 ### JS
 
-![javascript code preview](js.png)
+![javascript code preview](https://raw.githubusercontent.com/King-Kyle/marathon-dark/main/js.png?token=GHSAT0AAAAAACMZ2LWZMW5TDPPUKUK3AH22ZNFMO6A)
 
 **Enjoy!**
