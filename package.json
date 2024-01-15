@@ -4,6 +4,27 @@
   "description": "A dark theme inspired by the Marathon game!",
   "version": "0.0.1",
   "publisher": "KingKyle",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/King-Kyle/marathon-dark.git"
+  },
+  "keywords": [
+    "theme",
+    "marathon",
+    "dark theme",
+    "marathon dark",
+    "King Kyle",
+    "neon theme",
+    "futuristic",
+    "glow",
+    "cyberpunk",
+    "future",
+    "marathon game",
+    "new",
+    "cyber",
+    "neo",
+    "neon"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
