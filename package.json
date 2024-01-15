@@ -1,0 +1,22 @@
+{
+  "name": "marathon-dark",
+  "displayName": "Marathon Dark",
+  "description": "A dark theme inspired by the Marathon game!",
+  "version": "0.0.1",
+  "publisher": "KingKyle",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Marathon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Marathon Dark-color-theme.json"
+      }
+    ]
+  }
+}
