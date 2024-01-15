@@ -1,6 +1,8 @@
 # Marathon Dark
 
-Theme somewhat inspired by the ✦[Marathon game](https://www.marathonthegame.com/)✦
+A theme somewhat inspired by the ✦[Marathon game](https://www.marathonthegame.com/)✦
+
+## Screenshots
 
 ### HTML
 ![html code preview](html.png)
