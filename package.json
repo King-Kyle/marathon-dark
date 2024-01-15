@@ -2,7 +2,7 @@
   "name": "marathon-dark",
   "displayName": "Marathon Dark",
   "description": "A dark VS Code theme inspired by the Marathon game!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "KingKyle",
   "icon": "icon.jpg",
   "repository": {
