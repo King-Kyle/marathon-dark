@@ -13,4 +13,7 @@ A theme somewhat inspired by the ✦[Marathon game](https://www.marathonthegame.
 ### JS
 ![javascript code preview](js.png)
 
+### JS
+![javascript code preview](https://raw.githubusercontent.com/King-Kyle/marathon-dark/main/js.png)
+
 **Enjoy!**
